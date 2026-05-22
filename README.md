@@ -1,8 +1,7 @@
 # topic-trend-analysis
 
 Automatic discovery of customer-complaint topics, validated for coherence, and
-organized into a navigable hierarchy for trend analysis. Validated on the public
-CFPB Consumer Complaints dataset before being applied to client conversations.
+organized into a navigable hierarchy for trend analysis. 
 
 ## Key results
 
